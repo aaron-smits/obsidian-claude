@@ -1,3 +1,2 @@
 node_modules
-node_modules/@codemirror
-node_modules/@codemirror
+.env*

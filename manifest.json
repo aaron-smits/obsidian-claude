@@ -1,11 +1,10 @@
 {
-    "id": "hello-world",
-    "name": "Hello World",
+    "id": "obsidian-claude",
+    "name": "Claude Obsidian",
     "version": "1.6.0",
-    "minAppVersion": "0.15.0",
-    "description": "Demonstrates some of the capabilities of the Obsidian API.",
-    "author": "Obsidian",
-    "authorUrl": "https://obsidian.md",
-    "fundingUrl": "https://obsidian.md/pricing",
-    "isDesktopOnly": false
+    "minAppVersion": "1.6.5",
+    "description": "Simple Claude Chat plugin for Obsidian",
+    "author": "Aaron Smits",
+    "authorUrl": "https://aaronsmits.xyz",
+    "isDesktopOnly": true
 }
