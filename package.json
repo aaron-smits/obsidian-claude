@@ -13,20 +13,22 @@
     "license": "GPL-3.0-only",
     "devDependencies": {
         "@tsconfig/svelte": "^5.0.4",
-        "@types/node": "^16.11.6",
+        "@types/node": "^16.18.101",
         "@typescript-eslint/eslint-plugin": "5.29.0",
         "@typescript-eslint/parser": "5.29.0",
         "builtin-modules": "3.3.0",
+        "dotenv": "^16.4.5",
         "esbuild": "0.17.3",
         "esbuild-svelte": "^0.8.1",
         "obsidian": "latest",
         "svelte": "^4.2.18",
         "svelte-preprocess": "^6.0.1",
-        "tslib": "2.4.0",
-        "typescript": "^5.5.3"
+        "ts-node": "^10.9.2",
+        "tslib": "2.4.0"
     },
     "dependencies": {
         "@anthropic-ai/sdk": "^0.24.3",
-        "dotenv": "^16.4.5"
+        "highlight.js": "^11.10.0",
+        "node-fetch": "^2.7.0"
     }
 }

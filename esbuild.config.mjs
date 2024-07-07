@@ -16,6 +16,7 @@ const context = await esbuild.context({
         js: banner,
     },
     entryPoints: ["main.ts"],
+    platform: "node",
     bundle: true,
     external: [
         "obsidian",
@@ -35,7 +36,7 @@ const context = await esbuild.context({
     ],
     format: "cjs",
     target: "es2018",
-    logLevel: "verbose",
+    logLevel: "info",
     sourcemap: prod ? false : "inline",
     treeShaking: true,
     outfile: "main.js",

@@ -5,10 +5,12 @@ import Chat from "./Chat.svelte";
 export const VIEW_TYPE_CHAT = "chat-view";
 
 export class ChatView extends ItemView {
+    // @ts-ignore
     component: Chat;
-
-    constructor(leaf: WorkspaceLeaf) {
+    apiKey: string;
+    constructor(leaf: WorkspaceLeaf, apiKey: string) {
         super(leaf);
+        this.apiKey = apiKey;
     }
 
     getViewType() {
@@ -22,6 +24,11 @@ export class ChatView extends ItemView {
     async onOpen() {
         this.component = new Chat({
             target: this.contentEl,
+            props: {
+                apiKey: this.apiKey,
+                app: this.app, // Add this line
+                component: this, // Add this line
+            },
         });
     }
 
