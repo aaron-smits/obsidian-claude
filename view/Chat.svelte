@@ -1,16 +1,10 @@
 <script lang="ts">
+    import Message from "./Message.svelte";
     import Anthropic from "@anthropic-ai/sdk";
-    import { onMount, afterUpdate } from "svelte";
-    import { MarkdownRenderer } from "obsidian";
     import type { App, Component } from "obsidian";
     export let app: App; // Add this line to receive the Obsidian app instance
     export let component: Component;
 
-    function renderMarkdown(content: string): string {
-        const div = document.createElement("div");
-        MarkdownRenderer.render(app, content, div, ".", component);
-        return div.innerHTML;
-    }
     export let apiKey: string;
 
     const anthropic = new Anthropic({
@@ -52,6 +46,7 @@
         stream.on("text", (text) => {
             assistantResponse.content += text;
             messages = [...messages.slice(0, -1), assistantResponse];
+            scrollToBottom();
         });
 
         stream.on("error", (error) => {
@@ -61,6 +56,7 @@
                 content: "Error: " + error.message,
             };
             messages = [...messages, errorMessage];
+            scrollToBottom();
         });
         await stream.done();
         return messages;
@@ -74,32 +70,30 @@
         };
         inputMessage = ""; // Clear input after sending
         messages = [...messages, userMessage];
+        scrollToBottom();
 
-        try {
-            messages = await streamMessages();
-        } catch (e) {
-            console.error("Error:", e);
-            let errorMessage: Anthropic.MessageParam = {
-                role: "assistant",
-                content: "Error: " + e.message,
-            };
-            messages = [...messages, errorMessage];
-        } finally {
-            isLoading = false;
-        }
+        messages = await streamMessages();
+        isLoading = false;
+        scrollToBottom();
+    }
+
+    function scrollToBottom() {
+        setTimeout(() => {
+            const messagesContainer = document.querySelector(".messages");
+            if (messagesContainer) {
+                messagesContainer.scrollTop = messagesContainer.scrollHeight;
+            }
+        }, 0);
     }
 </script>
 
 <div class="chat-container">
-    <div class="messages">
-        {#each messages as message}
-            <div class={message.role}>
-                {message.role} :
-            </div>
-            {@html renderMarkdown(message.content)}
+    <div class="messages markdown-source-view">
+        {#each messages as message, index}
+            <Message {app} {component} {message} {index} />
         {/each}
         {#if isLoading}
-            <div class="loading">...</div>
+            <div>...</div>
         {/if}
     </div>
     <div class="input-area">
@@ -125,7 +119,6 @@
         display: flex;
         flex-direction: column;
         height: 100%;
-        margin: 1px auto;
         max-width: 100%;
     }
 
@@ -134,42 +127,20 @@
         overflow-y: auto;
     }
 
-    .message-content {
-        white-space: pre-wrap;
-    }
-
-    .user {
-        padding-bottom: 2px;
-    }
-
-    .assistant {
-        padding-bottom: 2px;
-    }
-
-    .chat-message {
-        display: flex;
-    }
-    .message-content {
-        padding-bottom: 10px;
-        white-space: pre-wrap;
-    }
-
     .input-area {
         display: flex;
         justify-content: space-between;
         gap: 10px;
+        padding-top: 10px;
     }
 
     input {
         flex-grow: 1;
     }
-
-    button {
-        padding: 5px 10px;
-    }
-
-    .loading {
-        font-style: italic;
-        color: #888;
+    .chat-container {
+        user-select: text;
+        -webkit-user-select: text;
+        -moz-user-select: text;
+        -ms-user-select: text;
     }
 </style>

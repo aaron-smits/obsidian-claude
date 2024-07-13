@@ -18,7 +18,7 @@ export class ChatView extends ItemView {
     }
 
     getDisplayText() {
-        return "Example view";
+        return "Claude Chat";
     }
 
     async onOpen() {
@@ -27,7 +27,7 @@ export class ChatView extends ItemView {
             props: {
                 apiKey: this.apiKey,
                 app: this.app, // Add this line
-                component: this, // Add this line
+                component: this.contentEl, // Add this line
             },
         });
     }

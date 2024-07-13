@@ -21,7 +21,7 @@ const DEFAULT_SETTINGS: Partial<ClaudePluginSettings> = {
 };
 
 export default class ClaudePlugin extends Plugin {
-    settings: ClaudePluginSettings;
+    settings!: ClaudePluginSettings;
 
     async onload() {
         await this.loadSettings();
@@ -62,11 +62,14 @@ export default class ClaudePlugin extends Plugin {
             // Our view could not be found in the workspace, create a new leaf
             // in the right sidebar for it
             leaf = workspace.getRightLeaf(false);
+            if (!leaf) {
+                leaf = workspace.getLeaf(true);
+            }
             await leaf.setViewState({ type: VIEW_TYPE_CHAT, active: true });
         }
 
         // "Reveal" the leaf in case it is in a collapsed sidebar
-        workspace.revealLeaf(leaf);
+        !!leaf ? workspace.revealLeaf(leaf) : null;
     }
     async saveSettings() {
         await this.saveData(this.settings);
