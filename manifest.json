@@ -1,7 +1,7 @@
 {
     "id": "obsidian-claude",
     "name": "Claude Obsidian",
-    "version": "1.6.0",
+    "version": "1.7.0",
     "minAppVersion": "1.6.5",
     "description": "Simple Claude Chat plugin for Obsidian",
     "author": "Aaron Smits",

@@ -1,6 +1,6 @@
 {
     "name": "obsidian-claude",
-    "version": "0.0.1",
+    "version": "1.7.0",
     "description": "Claude Chat for Obsidian.md (https://obsidian.md)",
     "main": "main.js",
     "scripts": {
