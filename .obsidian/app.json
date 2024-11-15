@@ -1,0 +1,19 @@
+{
+  "spellcheck": true,
+  "showInlineTitle": true,
+  "showLineNumber": false,
+  "promptDelete": false,
+  "showRibbon": true,
+  "readableLineLength": true,
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": true,
+  "autoPairBrackets": false,
+  "autoPairMarkdown": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

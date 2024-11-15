@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "b888e2f04fa1c5b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5240d22ae649576",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "038d7bcdb6bce486",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "5cc152a6294857a9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "22f53d89b81dbd1d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "e8e83523e2ca0d7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dndndndnd video game idea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dndndndnd video game idea"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66f48f318df9db8a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fd876b2fa21170d4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "b67e7377ce506278",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "615a8f9eb609af6a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "630ccb0cfbc9e602",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a251282b727f2528",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dd84252136a1dafc",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "daily/2024-09-30.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "a7678f4db9bc10b9",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "daily/2024-09-30.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "3d00a7f3357960d5",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "daily/2024-09-30.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "edc0b8d8bb39fc2c",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      },
+      {
+        "id": "f9fc25b95cb81e3b",
+        "type": "leaf",
+        "state": {
+          "type": "reminder-list",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "f05aab29f2c4cb27",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e8e83523e2ca0d7b",
+  "lastOpenFiles": [
+    "Dndndndnd video game idea.md",
+    "programming projects/pwsctl cli.md",
+    "daily/2024-11-08.md",
+    "daily/2024-10-30.md",
+    "daily/2024-09-30.md",
+    "To do in Chicago.md",
+    "Untitled 2.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "daily notes/2024-08-08.md",
+    "daily/2024-06-23.md",
+    "daily/2024-06-17.md",
+    "daily/2024-06-27.md",
+    "daily/2024-07-18.md",
+    "daily/2024-06-16.md",
+    "daily/2024-07-13.md",
+    "daily/2024-07-07.md",
+    "daily/2024-06-19.md",
+    "daily/2024-07-06.md",
+    "daily/2024-06-18.md",
+    "daily/2024-06-28.md",
+    "daily/2024-07-05.md",
+    "daily/2024-07-11.md",
+    "daily/Daily Notes Index.md",
+    "daily/2024-06-25.md",
+    "daily/2024-06-15.md",
+    "daily",
+    "/daily",
+    "smart-chats",
+    "chat/chat1",
+    "chat",
+    "/chat/chat1",
+    "/smart-chats",
+    "/chat",
+    "films",
+    "/films"
+  ]
+}

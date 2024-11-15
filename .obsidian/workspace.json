@@ -1,0 +1,292 @@
+{
+  "main": {
+    "id": "94f0eb79b9428703",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb5f4a6bd426a210",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4eb46192fb158db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2024-10-28.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-28"
+            }
+          },
+          {
+            "id": "dd0667be0afe68cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming projects/print store for photography.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "print store for photography"
+            }
+          },
+          {
+            "id": "daaddebbd989d59c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2024-11-12.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-12"
+            }
+          },
+          {
+            "id": "b87772edbb663ef5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "d601cb77309c84ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ideas/August 8 alternative history.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "August 8 alternative history"
+            }
+          },
+          {
+            "id": "69cee13f45279422",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming projects/firewatch labs/stagehand/Stagehand Project Proposal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stagehand Project Proposal"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1915b53d244e55ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "2549972c5cc27400",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36460afa61c8cb3e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "eee73f3cbe9aedc0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "62b03a180dc4bc60",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 201.51103591918945
+  },
+  "right": {
+    "id": "1b8aea9a2de46196",
+    "type": "split",
+    "children": [
+      {
+        "id": "05a753e0d7822226",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e34314946860c8d5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d6e8095a95b45965",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "daily/2024-10-28.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-10-28"
+            }
+          },
+          {
+            "id": "7509b30b5afe23cd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "daily/2024-10-28.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2024-10-28"
+            }
+          },
+          {
+            "id": "685ac33b44b88810",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ideas/August 8 alternative history.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of August 8 alternative history"
+            }
+          },
+          {
+            "id": "4a7c1db90c19a32d",
+            "type": "leaf",
+            "state": {
+              "type": "chat-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Claude Chat"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 568.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-claude:Show assistant": false
+    }
+  },
+  "active": "4a7c1db90c19a32d",
+  "lastOpenFiles": [
+    "settingsTab.ts",
+    "esbuild.config.mjs",
+    "tsconfig.json",
+    "view/Message.svelte",
+    "view/ChatView.ts",
+    "view/Chat.svelte",
+    "view",
+    "manifest.json",
+    "package.json",
+    "package-lock.json",
+    "main.js",
+    "node_modules/inflight/README.md",
+    "node_modules/@esbuild/darwin-arm64/README.md",
+    "node_modules/isexe/README.md",
+    "node_modules/mime-db/README.md",
+    "node_modules/mime-db/HISTORY.md",
+    "node_modules/source-map-js/README.md",
+    "node_modules/glob-parent/README.md",
+    "node_modules/debug/README.md",
+    "node_modules/acorn-walk/README.md",
+    "node_modules/acorn-walk/CHANGELOG.md",
+    "node_modules/is-reference/README.md",
+    "node_modules/shebang-command/readme.md",
+    "node_modules/fast-deep-equal/README.md",
+    "node_modules/globby/readme.md",
+    "node_modules/locate-path/readme.md",
+    "node_modules/type-check/README.md",
+    "node_modules/@eslint-community/regexpp/README.md",
+    "node_modules/@eslint-community/eslint-utils/README.md",
+    "node_modules/ajv/lib/dotjs/README.md",
+    "node_modules/ajv/README.md",
+    "node_modules/which/README.md",
+    "node_modules/which/CHANGELOG.md",
+    "node_modules/braces/README.md",
+    "node_modules/functional-red-black-tree/README.md",
+    "node_modules/dequal/readme.md",
+    "node_modules/highlight.js/styles/pojoaque.jpg",
+    "node_modules/highlight.js/styles/brown-papersq.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "essays/devlog/Pasted image 20240714115539.png"
+  ]
+}
