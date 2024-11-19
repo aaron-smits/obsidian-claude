@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-11-15.md",
+                "file": "daily/2024-11-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-15"
+              "title": "2024-11-19"
             }
           },
           {
@@ -210,14 +210,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ideas/August 8 alternative history.md"
+                "file": "daily/2024-11-19.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of August 8 alternative history"
+              "title": "Outline of 2024-11-19"
             }
           },
           {
-            "id": "4a7c1db90c19a32d",
+            "id": "0689d3610605a02e",
             "type": "leaf",
             "state": {
               "type": "chat-view",
@@ -245,10 +245,11 @@
       "obsidian-claude:Show assistant": false
     }
   },
-  "active": "d601cb77309c84ba",
+  "active": "0689d3610605a02e",
   "lastOpenFiles": [
-    "daily/2024-11-14.md",
     "daily/2024-11-15.md",
+    "daily/2024-11-19.md",
+    "daily/2024-11-14.md",
     "ideas/August 8 alternative history.md",
     "settingsTab.ts",
     "esbuild.config.mjs",
@@ -282,7 +283,6 @@
     "node_modules/ajv/README.md",
     "node_modules/which/README.md",
     "node_modules/which/CHANGELOG.md",
-    "node_modules/braces/README.md",
     "node_modules/highlight.js/styles/pojoaque.jpg",
     "node_modules/highlight.js/styles/brown-papersq.png",
     "Untitled.canvas",
