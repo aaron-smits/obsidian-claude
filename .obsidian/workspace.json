@@ -239,9 +239,19 @@
               "icon": "lucide-file",
               "title": "Claude Chat"
             }
+          },
+          {
+            "id": "834d8503df6b3c44",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
