@@ -95,13 +95,14 @@
             "id": "2e327ad43999d71e",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
                 "file": "daily/2024-11-20.md",
-                "staged": false
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (2024-11-20)"
+              "icon": "lucide-file",
+              "title": "2024-11-20"
             }
           }
         ],
@@ -161,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.51103591918945
+    "width": 201.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "1b8aea9a2de46196",
@@ -240,7 +242,7 @@
             }
           },
           {
-            "id": "834d8503df6b3c44",
+            "id": "fb32f809f60d73d6",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -254,7 +256,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 568.5
+    "width": 568.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,7 +271,7 @@
       "obsidian-claude:Show assistant": false
     }
   },
-  "active": "36460afa61c8cb3e",
+  "active": "2e327ad43999d71e",
   "lastOpenFiles": [
     "daily/2024-11-19.md",
     "daily/2024-11-20.md",
