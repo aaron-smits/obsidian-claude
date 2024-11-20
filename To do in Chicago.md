@@ -1,7 +1,0 @@
-- [x] ekaloka fix and gather requirements
-- [x] Swap stuff in and out of storage
-- [ ] Gather mail from apt
-- [x] Gather mail from UPS
-- [ ] Register car - DMV
-- [ ] Get car loan payment set up - mailbox
-- [ ] Drop off film - Bellows
