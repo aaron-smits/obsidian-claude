@@ -21,3 +21,7 @@ Upcoming
 - [ ] Tense Present - David Foster Wallace
 - [ ] Roger Federer Both Flesh and Not - David Foster Wallace
 - [ ] I Like to Watch 
+- [ ] The New New Thing - Michael Lewis
+- [ ] Liars Poker - Michael Lewis
+- [ ] The Fifth Risk - Michael Lewis 
+- [ ] The Big Short - Michael Lewis
