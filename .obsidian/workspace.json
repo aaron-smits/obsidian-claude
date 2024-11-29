@@ -4,95 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fb5f4a6bd426a210",
+        "id": "91f713b7348874bc",
         "type": "tabs",
         "children": [
           {
-            "id": "e4eb46192fb158db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2024-10-28.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-10-28"
-            }
-          },
-          {
-            "id": "dd0667be0afe68cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming projects/print store for photography.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "print store for photography"
-            }
-          },
-          {
-            "id": "daaddebbd989d59c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2024-11-12.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-12"
-            }
-          },
-          {
-            "id": "b87772edbb663ef5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "d601cb77309c84ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2024-11-19.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-19"
-            }
-          },
-          {
-            "id": "69cee13f45279422",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming projects/firewatch labs/stagehand/Stagehand Project Proposal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stagehand Project Proposal"
-            }
-          },
-          {
-            "id": "2e327ad43999d71e",
+            "id": "4218fa0d928abd0d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -105,8 +21,7 @@
               "title": "2024-11-29"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -268,14 +183,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-claude:Show assistant": false
+      "obsidian-claude:Show assistant": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "2e327ad43999d71e",
+  "active": "4218fa0d928abd0d",
   "lastOpenFiles": [
-    "daily/2024-11-20.md",
-    "daily/2024-11-29.md",
+    "daily/2024-10-28.md",
+    "programming projects/print store for photography.md",
+    "daily/2024-11-12.md",
     "daily/2024-11-19.md",
+    "programming projects/firewatch labs/stagehand/Stagehand Project Proposal.md",
+    "daily/2024-11-29.md",
+    "daily/2024-11-20.md",
     "Untitled 1.md",
     "To do in Chicago.md",
     "Untitled.md",
@@ -305,10 +225,6 @@
     "node_modules/is-reference/README.md",
     "node_modules/shebang-command/readme.md",
     "node_modules/fast-deep-equal/README.md",
-    "node_modules/globby/readme.md",
-    "node_modules/locate-path/readme.md",
-    "node_modules/type-check/README.md",
-    "node_modules/@eslint-community/regexpp/README.md",
     "node_modules/highlight.js/styles/pojoaque.jpg",
     "node_modules/highlight.js/styles/brown-papersq.png",
     "Untitled.canvas",
