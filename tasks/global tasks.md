@@ -15,6 +15,7 @@
 	- [ ] [[The Dangers of Learned Helplessness]]
 	- [ ] [[What is Quality?]]
 	- [ ] [[Landing your first tech job]]
+	- [ ] [[Technology I use and like]] 
 - [ ] Software projects
 	- [ ] [[pwsctl cli]]
 	- [ ] [[pw-service]]

@@ -1,0 +1,18 @@
+- [ ] Push
+	- [ ] Overhead press 
+	- [ ] Pushups
+	- [ ] Incline bench
+	- [ ] Tricep pushdown
+	- [ ] Skullcrushers
+	- [ ] Lateral raise
+- [ ] Pull
+	- [ ] Lat pulldown
+	- [ ] Chest supported row
+	- [ ] Pullups
+	- [ ] Face pulls
+	- [ ] Bicep curls
+- [ ] Legs
+	- [ ] RDL
+	- [ ] Lunge
+	- [ ] Goblet squat
+	- [ ] Leg curl
