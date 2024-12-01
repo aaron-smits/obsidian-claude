@@ -1,11 +1,4 @@
-### Cleaning
-- [ ] Dishes
-- [ ] Floors
-- [ ] Laundry
-- [ ] Sheets
-### Care
-- [ ] Shower
-- [ ] Meditation
+
 ### Hobbies and Projects
 - [x] Post photos on personal site
 	- [x] After that is done, delete Instagram off of phone
@@ -18,11 +11,16 @@
 	- [ ] [[Technology I use and like]] 
 - [ ] Software projects
 	- [ ] [[pwsctl cli]]
+		- [ ] On hold pending contract
 	- [ ] [[pw-service]]
+		- [ ] On hold pending contract
 	- [x] [[ekaloka]]
+	- [ ] Advent of code
 ### Entertainment and Leisure
 - [ ] Watch Furiosa
 ### Friends and Family
+
+- [ ] Follow up with Uncle Bill books in [[reading list]] 
 
 ### Financial
 - [ ] [[financial plan]]

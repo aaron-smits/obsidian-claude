@@ -11,10 +11,14 @@
             "id": "4218fa0d928abd0d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "daily/2024-11-30.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-30"
             }
           }
         ]
@@ -186,12 +190,13 @@
   "lastOpenFiles": [
     "daily/2024-11-29.md",
     "daily/2024-11-30.md",
+    "tasks/global tasks.md",
+    "tasks/gym.md",
     "Technology I use and like.md",
     "Workouts Week of 12-1/Workouts.md",
     "Goals.md",
     "Workouts Week of 12-1",
     "Random links.md",
-    "tasks/global tasks.md",
     "gift list.md",
     "node_modules/fast-glob/node_modules",
     "node_modules/esquery/node_modules",
@@ -202,7 +207,6 @@
     "node_modules/@nodelib/fs.walk/out",
     "node_modules/formdata-node/node_modules",
     "node_modules/formdata-node",
-    "tasks/gym.md",
     "daily/2024-06-16.md",
     "node_modules/color-convert/CHANGELOG.md",
     "films/Recs.md",
