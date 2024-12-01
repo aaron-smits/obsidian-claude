@@ -11,14 +11,10 @@
             "id": "4218fa0d928abd0d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2024-11-29.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-29"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -188,6 +184,8 @@
   },
   "active": "4218fa0d928abd0d",
   "lastOpenFiles": [
+    "daily/2024-11-29.md",
+    "daily/2024-11-30.md",
     "Technology I use and like.md",
     "Workouts Week of 12-1/Workouts.md",
     "Goals.md",
@@ -205,7 +203,6 @@
     "node_modules/formdata-node/node_modules",
     "node_modules/formdata-node",
     "tasks/gym.md",
-    "daily/2024-11-29.md",
     "daily/2024-06-16.md",
     "node_modules/color-convert/CHANGELOG.md",
     "films/Recs.md",
@@ -223,7 +220,6 @@
     "ideas/August 8 alternative history.md",
     "node_modules/inflight/README.md",
     "node_modules/@esbuild/darwin-arm64/README.md",
-    "node_modules/isexe/README.md",
     "node_modules/highlight.js/styles/pojoaque.jpg",
     "node_modules/highlight.js/styles/brown-papersq.png",
     "Untitled.canvas",
