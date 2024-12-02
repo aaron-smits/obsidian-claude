@@ -1,0 +1,13 @@
+
+- Financial Plan
+	- Quicken API integration?
+	- https://github.com/rijn/simplifiapi/
+	- Rewrite this in Go
+	- Patch it into a frontend of some kind to render the data
+	- Feed the data into AI for reporting, analysis, etc 
+- Fitness
+- Social
+- To do list
+- Pomodoro timer
+- Habit Tracker
+- Calendar integration

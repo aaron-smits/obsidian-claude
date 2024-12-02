@@ -1,7 +1,7 @@
 ## Next 7 Days
-- [ ] Optimize working space for work ONLY.
+- [x] Optimize working space for work ONLY.
 - [ ] Finalize details of GM Loan. 
-	- [ ] Call Danny about tax check
+	- [x] Call Danny about tax check
 	- [ ] Make sure I don't owe a payment to GM this month
 - [ ] Advent of Code -- Start repo and do first problem
 - [ ] Workouts (Go to gym at least three times, do the other days at home) [[Workouts]] 
