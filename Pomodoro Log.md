@@ -2,14 +2,13 @@
 
 | Done | TIme | Task                 |
 | :--: | :--: | -------------------- |
-|      |      | Advent of Code Day 1 |
-|      |      | Reports Tests        |
-|      |      | Reports Tests        |
-|      |      | Reports Tests        |
-|      |      | Reports Tests        |
-|      |      | Reports Tests        |
-|      |      | Reports Tests        |
-|      |      | Prescription         |
+|  X   | 6:05 | Journal              |
+|  X   | 6:35 | Advent of Code Day 1 |
+|  X   | 7:05 | Advent of Code Day 1 |
+|  X   | 7:35 | Advent of Code Day 1 |
+|  X   | 8:05 | Advent of Code Day 1 |
+|  X   | 8:35 | Advent of Code Day 1 |
+Still couldn't finish this challenge...
 
 --- 
 
