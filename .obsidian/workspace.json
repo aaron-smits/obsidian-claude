@@ -13,29 +13,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pomodoro Log.md",
+                "file": "daily/2024-12-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pomodoro Log"
+              "title": "2024-12-04"
             }
           },
           {
             "id": "7e8925fa205b3ca9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-12-01.md",
+                "file": "Pomodoro Log.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "2024-12-01"
+              "title": "Pomodoro Log"
+            }
+          },
+          {
+            "id": "c0b31535aa05bd69",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,12 +213,13 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "4218fa0d928abd0d",
+  "active": "c0b31535aa05bd69",
   "lastOpenFiles": [
-    "daily/2024-12-03.md",
     "Pomodoro Log.md",
-    "daily/2024-12-02.md",
     "daily/2024-12-01.md",
+    "daily/2024-12-04.md",
+    "daily/2024-12-03.md",
+    "daily/2024-12-02.md",
     "programming projects/Productivity Tool.md",
     "Goals.md",
     "tasks/gym.md",
@@ -237,7 +251,6 @@
     "programming projects/firewatch labs/stagehand/Stagehand Project Proposal.md",
     "daily/2024-11-20.md",
     "Untitled 1.md",
-    "To do in Chicago.md",
     "node_modules/highlight.js/styles/pojoaque.jpg",
     "node_modules/highlight.js/styles/brown-papersq.png",
     "Untitled.canvas",

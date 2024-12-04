@@ -1,3 +1,11 @@
+[[2024-12-04]]
+
+| Done | TIme | Task          |
+| :--: | :--: | ------------- |
+|  X   | 8:50 | Reports tests |
+
+Still couldn't finish this challenge...
+
 [[2024-12-03]]
 
 | Done | TIme  | Task                             |
