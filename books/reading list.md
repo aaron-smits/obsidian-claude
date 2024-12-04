@@ -25,3 +25,6 @@ Upcoming
 - [ ] Liars Poker - Michael Lewis
 - [ ] The Fifth Risk - Michael Lewis 
 - [ ] The Big Short - Michael Lewis
+- [ ] Epistulae Morales ad Lucilium
+- [ ] Awareness by Anthony De Mello
+- [ ] Vagabond by Takehiko Inoue
