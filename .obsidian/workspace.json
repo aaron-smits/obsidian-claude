@@ -47,8 +47,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,8 +212,9 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "c0b31535aa05bd69",
+  "active": "4218fa0d928abd0d",
   "lastOpenFiles": [
+    "daily/2024-12-05.md",
     "Pomodoro Log.md",
     "daily/2024-12-01.md",
     "daily/2024-12-04.md",
@@ -250,7 +250,6 @@
     "daily/2024-11-19.md",
     "programming projects/firewatch labs/stagehand/Stagehand Project Proposal.md",
     "daily/2024-11-20.md",
-    "Untitled 1.md",
     "node_modules/highlight.js/styles/pojoaque.jpg",
     "node_modules/highlight.js/styles/brown-papersq.png",
     "Untitled.canvas",

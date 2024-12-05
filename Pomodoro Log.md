@@ -1,8 +1,9 @@
 [[2024-12-04]]
 
-| Done | TIme | Task          |
-| :--: | :--: | ------------- |
-|  X   | 8:50 | Reports tests |
+| Done | TIme  | Task          |
+| :--: | :---: | ------------- |
+|  X   | 8:50  | Reports tests |
+|      | 11:45 | Reports tests |
 
 Still couldn't finish this challenge...
 
