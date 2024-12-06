@@ -47,7 +47,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,12 +213,12 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "4218fa0d928abd0d",
+  "active": "c0b31535aa05bd69",
   "lastOpenFiles": [
-    "daily/2024-12-05.md",
     "Pomodoro Log.md",
-    "daily/2024-12-01.md",
     "daily/2024-12-04.md",
+    "daily/2024-12-05.md",
+    "daily/2024-12-01.md",
     "daily/2024-12-03.md",
     "daily/2024-12-02.md",
     "programming projects/Productivity Tool.md",
