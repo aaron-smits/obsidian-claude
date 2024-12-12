@@ -38,16 +38,6 @@
             }
           },
           {
-            "id": "c0b31535aa05bd69",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "4cbb7b738745e6a1",
             "type": "leaf",
             "state": {
@@ -62,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,11 +217,11 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "4cbb7b738745e6a1",
+  "active": "7e8925fa205b3ca9",
   "lastOpenFiles": [
-    "Aaron Smits.md",
     "daily/2024-12-09.md",
     "Pomodoro Log.md",
+    "Aaron Smits.md",
     "daily/2024-12-04.md",
     "daily/2024-12-05.md",
     "daily/2024-12-01.md",
