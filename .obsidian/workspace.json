@@ -57,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-12-11.md",
+                "file": "daily/2024-12-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-11"
+              "title": "2024-12-15"
             }
           }
         ],
@@ -233,8 +233,9 @@
   },
   "active": "5f20455957bf1073",
   "lastOpenFiles": [
-    "Pomodoro Log.md",
     "daily/2024-12-11.md",
+    "daily/2024-12-15.md",
+    "Pomodoro Log.md",
     "daily/2024-12-09.md",
     "Aaron Smits.md",
     "daily/2024-12-04.md",
@@ -268,7 +269,6 @@
     "node_modules/type-fest/readme.md",
     "daily/2024-10-28.md",
     "programming projects/print store for photography.md",
-    "daily/2024-11-12.md",
     "node_modules/highlight.js/styles/pojoaque.jpg",
     "node_modules/highlight.js/styles/brown-papersq.png",
     "Untitled.canvas",
