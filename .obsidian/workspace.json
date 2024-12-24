@@ -185,8 +185,9 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "c7bdf380749036a3",
+  "active": "0689d3610605a02e",
   "lastOpenFiles": [
+    "daily/2024-12-23.md",
     "daily/2024-12-17.md",
     "daily/2024-12-19.md",
     "daily/2024-12-15.md",
@@ -222,7 +223,6 @@
     "node_modules/formdata-node",
     "daily/2024-06-16.md",
     "node_modules/color-convert/CHANGELOG.md",
-    "node_modules/type-fest/readme.md",
     "node_modules/highlight.js/styles/pojoaque.jpg",
     "node_modules/highlight.js/styles/brown-papersq.png",
     "Untitled.canvas",
