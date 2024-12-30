@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-12-27.md",
+                "file": "daily/2024-12-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-27"
+              "title": "2024-12-29"
             }
           }
         ]
@@ -187,8 +187,9 @@
   },
   "active": "c7bdf380749036a3",
   "lastOpenFiles": [
-    "daily/2024-12-19.md",
+    "daily/2024-12-30.md",
     "daily/2024-12-27.md",
+    "daily/2024-12-19.md",
     "daily/2024-12-23.md",
     "daily/2024-12-17.md",
     "daily/2024-12-15.md",
@@ -222,7 +223,6 @@
     "node_modules/@nodelib/fs.walk/out",
     "node_modules/formdata-node/node_modules",
     "node_modules/formdata-node",
-    "daily/2024-06-16.md",
     "node_modules/highlight.js/styles/pojoaque.jpg",
     "node_modules/highlight.js/styles/brown-papersq.png",
     "Untitled.canvas",
