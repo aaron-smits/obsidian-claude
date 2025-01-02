@@ -1,6 +1,3 @@
-- [ ] Events page
-- [ ] Improve brew archive
-- [ ] Send them an invoice for $1 for practice
 - [ ] Add to firewatch labs portfolio site
 - [ ] Onboarding for Klaviyo
 	- [ ] Fix form font after submission

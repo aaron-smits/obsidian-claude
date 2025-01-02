@@ -1,0 +1,8 @@
+[[create a frontend for spotify playlist downloader]]
+[[Productivity Tool]]
+[[Stagehand Project Proposal]]
+[[pwsctl cli]]
+[[Dnd video game idea]]
+[[print store for photography]]
+[[pw-service]]
+[[spotify clone]]
