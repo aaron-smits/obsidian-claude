@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming projects/pw-service.md",
+                "file": "daily/2025-01-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pw-service"
+              "title": "2025-01-03"
             }
           }
         ],
@@ -200,8 +200,10 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "36460afa61c8cb3e",
+  "active": "8b39a5376daab6f2",
   "lastOpenFiles": [
+    "programming projects/pw-service.md",
+    "daily/2025-01-03.md",
     "programming projects/pwsctl cli.md",
     "programming projects/Index.md",
     "programming projects/archive/ekaloka.md",
@@ -226,8 +228,6 @@
     "daily/2024-12-11.md",
     "Aaron Smits.md",
     "daily/2024-12-05.md",
-    "daily/2024-12-01.md",
-    "daily/2024-12-03.md",
     "Workouts Week of 12-1",
     "node_modules/fast-glob/node_modules",
     "node_modules/esquery/node_modules",
