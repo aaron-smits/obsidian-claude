@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-01-10.md",
+                "file": "daily/2025-01-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-10"
+              "title": "2025-01-15"
             }
           }
         ]
@@ -167,8 +167,9 @@
   },
   "active": "be79bf2b27de50cf",
   "lastOpenFiles": [
-    "programming projects/pw-service.md",
     "daily/2025-01-10.md",
+    "daily/2025-01-15.md",
+    "programming projects/pw-service.md",
     "daily/2025-01-05.md",
     "daily/2025-01-03.md",
     "programming projects/pwsctl cli.md",
@@ -192,7 +193,6 @@
     "Pomodoro Log.md",
     "daily/2024-12-09.md",
     "films/Recs.md",
-    "daily/2024-12-11.md",
     "Workouts Week of 12-1",
     "node_modules/fast-glob/node_modules",
     "node_modules/esquery/node_modules",
