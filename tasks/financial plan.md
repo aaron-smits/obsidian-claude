@@ -48,40 +48,40 @@ Due Feb 15
 
 January 31st Paycheck ($2,760):
 
-|Card|Payment Amount|Payment Date|Balance After Payment|
-|---|---|---|---|
-|Amazon Visa|$800|Feb 8|$1,906|
-|Fixed Expenses|$1,602|Feb 1 (Rent)|-|
-|Set Aside|$358|(For car/insurance)|-|
+| Payment Date | Card           | Payment Amount | Balance After Payment |
+| ------------ | -------------- | -------------- | --------------------- |
+| Feb 1 (Rent) | Fixed Expenses | $1,602         | -                     |
+| Feb 8        | Amazon Visa    | $800           | $1,906                |
+
 
 February 15th Paycheck ($2,760):
 
-|Card|Payment Amount|Payment Date|Balance After Payment|
-|---|---|---|---|
-|Discover Eagle|$685|Feb 14|$0|
-|Freedom Flex|$350|Feb 22|$0|
-|Sapphire Preferred|$500|Feb 23|$1,591|
-|Discover Gold|$1,000|Feb 15|$3,534.77 (incl. $100.77 interest)|
-|Fixed/Variable Expenses|$225|Various|-|
+| Payment Date | Card                    | Payment Amount | Balance After Payment              |
+| ------------ | ----------------------- | -------------- | ---------------------------------- |
+| Various      | Fixed/Variable Expenses | $225           | -                                  |
+| Feb 14       | Discover Eagle          | $685           | $0                                 |
+| Feb 15       | Discover Gold           | $1,500         | $3,534.77 (incl. $100.77 interest) |
+| Feb 22       | Freedom Flex            | $350           | $0                                 |
+| Feb 23       | Sapphire Preferred      | $500           | $1,591                             |
 
 ### March 2025
 
 February 28th Paycheck ($2,760):
 
-|Card|Payment Amount|Payment Date|Balance After Payment|
-|---|---|---|---|
-|Discover Gold|$1,000|Mar 1|$2,615.06 (incl. $80.29 interest)|
-|Amazon Visa|$800|Mar 8|$1,106|
-|Fixed Expenses|$1,602|Mar 1 (Rent)|-|
-|Set Aside|$358|(For car/insurance)|-|
+| Payment Date        | Card           | Payment Amount | Balance After Payment             |
+| ------------------- | -------------- | -------------- | --------------------------------- |
+| Mar 1 (Rent)        | Fixed Expenses | $1,602         | -                                 |
+| Mar 1               | Discover Gold  | $1,000         | $2,615.06 (incl. $80.29 interest) |
+| (For car/insurance) | Set Aside      | $358           | -                                 |
+| Mar 8               | Amazon Visa    | $800           | $1,106                            |
 
 March 15th Paycheck ($2,760):
 
-|Card|Payment Amount|Payment Date|Balance After Payment|
-|---|---|---|---|
-|Sapphire Preferred|$500|Mar 23|$1,091|
-|Fixed/Variable Expenses|$1,260|Various|-|
-|Discover Gold Additional|$1,000|Mar 15|$1,674.45 (incl. $59.39 interest)|
+| Payment Date | Card                     | Payment Amount | Balance After Payment             |
+| ------------ | ------------------------ | -------------- | --------------------------------- |
+| Mar 23       | Sapphire Preferred       | $500           | $1,091                            |
+| Various      | Fixed/Variable Expenses  | $1,260         | -                                 |
+| Mar 15       | Discover Gold Additional | $1,000         | $1,674.45 (incl. $59.39 interest) |
 
 ### April 2025
 
