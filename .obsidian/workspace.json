@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tasks/financial plan.md",
+                "file": "daily/2025-01-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "financial plan"
+              "title": "2025-01-21"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tasks/financial plan.md",
+                "file": "daily/2025-01-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for financial plan"
+              "title": "Backlinks for 2025-01-21"
             }
           },
           {
@@ -140,14 +140,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming projects/pw-service.md"
+                "file": "daily/2025-01-21.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of pw-service"
+              "title": "Outline of 2025-01-21"
             }
           },
           {
-            "id": "d6c190b9f3bdc015",
+            "id": "020917519a4cb72d",
             "type": "leaf",
             "state": {
               "type": "chat-view",
@@ -176,9 +176,10 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "d6c190b9f3bdc015",
+  "active": "020917519a4cb72d",
   "lastOpenFiles": [
     "tasks/financial plan.md",
+    "daily/2025-01-21.md",
     "daily/2025-01-15.md",
     "daily/2025-01-16.md",
     "daily/2025-01-10.md",
@@ -203,7 +204,6 @@
     "daily/2024-12-17.md",
     "daily/2024-12-15.md",
     "daily/2024-12-04.md",
-    "Pomodoro Log.md",
     "Workouts Week of 12-1",
     "node_modules/fast-glob/node_modules",
     "node_modules/esquery/node_modules",
