@@ -7,7 +7,9 @@
 - [ ] GitHub integration 
 - [ ] Settings page 
 - [ ] Auth/Github 
-- [ ] Oauth provicers
+	- [x] Auth flow 
+	- [ ] Connect with specific repos and pull in test code
+	- [ ] Other Oauth providers
 
 ## Backend
 
