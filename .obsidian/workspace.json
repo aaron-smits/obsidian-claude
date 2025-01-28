@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming projects/pw-service.md",
+                "file": "daily/2025-01-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pw-service"
+              "title": "2025-01-27"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming projects/pw-service.md",
+                "file": "daily/2025-01-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pw-service"
+              "title": "Backlinks for 2025-01-27"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming projects/pw-service.md"
+                "file": "daily/2025-01-27.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of pw-service"
+              "title": "Outline of 2025-01-27"
             }
           },
           {
@@ -188,11 +188,12 @@
   },
   "active": "be79bf2b27de50cf",
   "lastOpenFiles": [
+    "programming projects/pw-service.md",
+    "daily/2025-01-27.md",
     "programming projects/Personal Site aaronsmits.xyz.md",
     "tasks/global tasks.md",
     "programming projects/create a frontend for spotify playlist downloader.md",
     "essays/Technology I use and like.md",
-    "programming projects/pw-service.md",
     "pwsctl cli.md",
     "programming projects/pwsctl cli.md",
     "programming projects/Index.md",
@@ -214,7 +215,6 @@
     "grocery list.md",
     "daily/2024-12-29.md",
     "daily/2024-12-30.md",
-    "daily/2024-12-27.md",
     "Workouts Week of 12-1",
     "node_modules/fast-glob/node_modules",
     "node_modules/esquery/node_modules",
