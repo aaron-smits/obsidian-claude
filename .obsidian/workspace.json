@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-01-28.md",
+                "file": "daily/2025-01-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-28"
+              "title": "2025-01-29"
             }
           }
         ]
@@ -188,8 +188,9 @@
   },
   "active": "be79bf2b27de50cf",
   "lastOpenFiles": [
-    "daily/2025-01-27.md",
     "daily/2025-01-28.md",
+    "daily/2025-01-29.md",
+    "daily/2025-01-27.md",
     "programming projects/pw-service.md",
     "programming projects/Personal Site aaronsmits.xyz.md",
     "tasks/global tasks.md",
@@ -214,7 +215,6 @@
     "programming projects/spotify clone.md",
     "daily/2025-01-02.md",
     "grocery list.md",
-    "daily/2024-12-29.md",
     "Workouts Week of 12-1",
     "node_modules/fast-glob/node_modules",
     "node_modules/esquery/node_modules",
