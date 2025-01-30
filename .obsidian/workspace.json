@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2025-01-29"
             }
+          },
+          {
+            "id": "61537bafe25e847f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2025-01-29.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-29"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,10 +201,11 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "be79bf2b27de50cf",
+  "active": "61537bafe25e847f",
   "lastOpenFiles": [
-    "daily/2025-01-28.md",
+    "daily/2025-01-30.md",
     "daily/2025-01-29.md",
+    "daily/2025-01-28.md",
     "daily/2025-01-27.md",
     "programming projects/pw-service.md",
     "programming projects/Personal Site aaronsmits.xyz.md",
@@ -214,7 +230,6 @@
     "programming projects/archive/ekaloka.md",
     "programming projects/spotify clone.md",
     "daily/2025-01-02.md",
-    "grocery list.md",
     "Workouts Week of 12-1",
     "node_modules/fast-glob/node_modules",
     "node_modules/esquery/node_modules",
