@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2025-01-30.md",
+                "file": "daily/2025-02-03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-30"
+              "title": "2025-02-03"
             }
           }
         ],
@@ -154,20 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2025-01-27.md"
+                "file": "daily/2025-02-03.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-01-27"
-            }
-          },
-          {
-            "id": "020917519a4cb72d",
-            "type": "leaf",
-            "state": {
-              "type": "chat-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Claude Chat"
+              "title": "Outline of 2025-02-03"
             }
           },
           {
@@ -179,14 +169,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "ecab0fc10e4f3c74",
+            "type": "leaf",
+            "state": {
+              "type": "chat-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Claude Chat"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 568.5,
-    "collapsed": true
+    "width": 568.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,8 +202,10 @@
   },
   "active": "61537bafe25e847f",
   "lastOpenFiles": [
-    "daily/2025-01-29.md",
+    "tasks/financial plan.md",
+    "daily/2025-02-03.md",
     "daily/2025-01-30.md",
+    "daily/2025-01-29.md",
     "daily/2025-01-28.md",
     "daily/2025-01-27.md",
     "programming projects/pw-service.md",
@@ -221,7 +222,6 @@
     "templates/daily template.md",
     "films/Recs.md",
     "daily/2025-01-21.md",
-    "tasks/financial plan.md",
     "daily/2025-01-15.md",
     "daily/2025-01-16.md",
     "daily/2025-01-10.md",
@@ -229,7 +229,6 @@
     "daily/2025-01-03.md",
     "programming projects/archive/ekaloka.md",
     "programming projects/spotify clone.md",
-    "daily/2025-01-02.md",
     "Workouts Week of 12-1",
     "node_modules/fast-glob/node_modules",
     "node_modules/esquery/node_modules",
