@@ -17,6 +17,3 @@
 [[pwsctl cli]]
 ## Reporters for test runners
 * [ ] Playwright
-* [ ] Jest
-* [ ] Vitest
-* [ ] Pytest
